@@ -55,5 +55,5 @@ body {
 .js{
     display: flex;
     justify-content: end;
-    
+    background-image: url(../assets/hojasFondo.jpg);
 }
