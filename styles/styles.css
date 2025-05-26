@@ -84,6 +84,23 @@ width: 404px;
     
 }
 
+.todo_3{
+  display: flex;
+}
+
+.boton_2{
+    width: 157px;
+    font-size: 17px;
+    height: 40px;
+}
+
+.boton_3{
+  width: 110px;
+  font-size: 17px;
+  height: 40px;
+  background-color: #2e244f;
+  color: white;
+}
 
 
 
